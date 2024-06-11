@@ -1,0 +1,3 @@
+This project revolves around managing resident accounts within an institution.
+The goal is to provide a system for staff members to efficiently handle financial transactions for residents, including depositing money into accounts, withdrawing funds when needed, and maintaining accurate records of account balances.
+By using Python and openpyxl, the project enables staff to interact with Excel files to store and update account data. This approach offers a simple yet effective solution for managing resident finances, ensuring transparency, accuracy, and ease of use. With this system in place, staff members can streamline their administrative tasks related to resident accounts, providing residents with a reliable and efficient financial management service.
